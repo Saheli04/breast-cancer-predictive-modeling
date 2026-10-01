@@ -11,6 +11,9 @@
 ## 📌 Project Overview
 
 This project focuses on building and evaluating machine learning models for **breast cancer classification** using the **Breast Cancer Wisconsin (Diagnostic) Dataset**.
+## 🎥 Dashboard Demo
+
+![Breast Cancer Dashboard Demo](screenshots/dashboard-demo.mp4)
 
 The objective is to use diagnostic features extracted from breast tumor samples to classify tumors into two categories:
 
