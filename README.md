@@ -263,13 +263,11 @@ breast-cancer-predictive-modeling/
 ├── 🚀 app.py
 │
 ├── 📁 screenshots/
-│   ├── dashboard.png
-│   ├── confusion_matrix.png
-│   ├── roc_curve.png
-│   └── model_comparison.png
-│
-└── 📁 data/
-    └── README.md
+    ├── dashboard.png
+    ├── confusion_matrix.png
+    ├── roc_curve.png
+    └── model_comparison.png
+
 ```
 
 > If a file or folder has not yet been uploaded to the repository, remove it from this section until it exists.
